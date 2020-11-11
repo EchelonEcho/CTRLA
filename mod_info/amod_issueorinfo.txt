@@ -1,0 +1,2 @@
+Put txt files describing issues, dependencies, or instructions on different mods in the pack.
+For example: if I changed what dimension the twilight forest sends you back to, I would put that here.
